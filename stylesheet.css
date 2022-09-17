@@ -1,0 +1,128 @@
+body{  position: relative;
+margin: 0;
+text-align: center;}
+h1{font-family: 'Pacifico', cursive;
+font-size: 3rem;
+font-weight: lighter;
+display: inline-block;
+margin:0;
+color: white;}
+h2{font-family: 'Montserrat', sans-serif;
+display: inline-block;
+font-size: 2.5rem;
+font-weight: lighter;
+margin:0;
+color: white;}
+h3{font-family: 'Merriweather', serif;
+color: #A1C298;}
+p{width:500px;
+margin:0 auto 0 auto;
+font-weight: bold;
+line-height: 25px;}
+hr{width: 75px;
+border-style: dotted;
+border-width: 6px;
+border-spacing: 10px;
+border-top: none;
+color:#A1C298;
+}
+.top-container{position: relative;
+  background-color: #A1C298;
+padding-bottom: 50px;
+padding-top: 50px;}
+.bottom-container{background-color: #A1C298;
+margin: 50px auto 0 auto;
+padding: 50px;}
+.naurto1{position: absolute;
+  left:50px;
+  bottom: 25px;
+  width:235px;}
+.naurto2{position: absolute;
+  right:0;
+  bottom: 0;
+  width:300px;}
+.pp1{position: absolute;
+  right:200px;
+  top:50px;
+  width:150px;
+margin:0;}
+.pp2{position: absolute;
+  left:200px;
+  width:150px;
+  top:50px;
+margin:0;}
+.sharingan{display: block;
+  width:150px;
+margin:50px auto 0 auto;}
+.dd{width:200px;
+float: left;
+border-radius: 50%;
+margin:0 50px 0 auto;
+}
+.hb{margin:0 auto 0 50px;
+width:200px;
+border-radius: 50%;
+float: right;
+}
+.pro{text-decoration: underline;}
+
+.hello{color:#A1C298;
+  font-weight: bold;
+margin: 25px auto 25px auto;}
+.firstpara{margin:0 auto 50px auto;
+width:500px;
+padding:0;}
+.myskills{color:#A1C298;
+  margin:50px auto 0 auto;}
+.skillone{width:500px;
+margin:50px auto 0 auto;
+text-align: left;}
+.skilltwo{width:500px;
+margin:50px auto 50px auto;
+text-align: left;}
+.GIT{margin: 50px auto;
+font-weight: bold;
+color:#A1C298;}
+.GITinfo{margin:0 auto 50px auto;
+width: 500px;
+color:#A1C298;}
+.GITinfo2{margin:0 auto 50px auto;
+width: 500px;}
+.btn {margin: 0 auto 50px auto;}
+.btn {
+  background: #C6EBC5;
+  background-image: -webkit-linear-gradient(top, #C6EBC5, #A1C298);
+  background-image: -moz-linear-gradient(top, #C6EBC5, #A1C298);
+  background-image: -ms-linear-gradient(top, #C6EBC5, #A1C298);
+  background-image: -o-linear-gradient(top, #C6EBC5, #A1C298);
+  background-image: linear-gradient(to bottom, #C6EBC5, #A1C298);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #A1C298;
+  background-image: -webkit-linear-gradient(top, #A1C298, #C6EBC5);
+  background-image: -moz-linear-gradient(top, #A1C298, #C6EBC5);
+  background-image: -ms-linear-gradient(top, #A1C298, #C6EBC5);
+  background-image: -o-linear-gradient(top, #A1C298, #C6EBC5);
+  background-image: linear-gradient(to bottom, #A1C298, #C6EBC5);
+  text-decoration: none;
+}
+.moreme1 {text-decoration: none;
+color: white;
+margin:25px;}
+.moreme1:hover{color:black;}
+.moreme2 {text-decoration: none;
+color: white;
+margin:25px;}
+.moreme2:hover{color:black;}
+.copyrights {color: white;
+margin: 50px auto 0 auto; }
